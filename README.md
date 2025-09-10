@@ -502,6 +502,8 @@ nodeJS-express-template
         |   routes.js
         └───controller
             │   index.js
+        └───service
+            │   index.js
         └───models
             │   mongoose.js
         └───utils
